@@ -1,9 +1,9 @@
 # chave-valor
 
-**Faca um algoritimo que salve dados uma chave e um valor em memoria
+**Faca um algoritimo que salve dados uma chave e um valor em memoria**
 
 #1 --> ao rodar o algoritmo pergunte qual o limite maximo suportado ex:
-	qual o tamanho maximo da memoria?
+	``qual o tamanho maximo da memoria?``
 	-> 100
 100 e a quantidade de caracteres maximo 
 
